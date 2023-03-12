@@ -1,0 +1,13 @@
+body {
+    background-color: black ;
+}
+
+.buttonFrame {
+    padding: 10px;
+}
+.colorButton {
+    padding: 20%;
+    background-color: aliceblue;
+    display: inline-block;
+    margin: 10px;
+}
