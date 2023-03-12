@@ -1,9 +1,11 @@
 body {
     background-color: black ;
+    color: azure;
 }
 
 .buttonFrame {
     padding: 10px;
+    text-align: center;
 }
 .colorButton {
     padding: 20%;
