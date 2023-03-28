@@ -1,2 +1,2 @@
 # colorfinder
-application to find "the perfect color" using deduction
+HTML-based web application to find "the perfect color" using deduction
