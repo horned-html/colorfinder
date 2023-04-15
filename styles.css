@@ -9,7 +9,7 @@ body {
 }
 .colorButton {
     padding: 15%;
+    display: inline-block;    
     background-color: aliceblue;
-    display: inline-block;
     margin: 10px;
 }
